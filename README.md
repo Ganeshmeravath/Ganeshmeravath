@@ -1,7 +1,7 @@
 ## Hi there 👋
 ## 📜 Certifications
 
-- Microsoft Certified: Power BI Data Analyst Associate (PL-300) – [Verify](https://www.credly.com/badges/your-badge-id)
+- Microsoft Certified: Power BI Data Analyst Associate (PL-300) 
 
 
 <!--
