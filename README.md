@@ -1,4 +1,8 @@
 ## Hi there 👋
+## 📜 Certifications
+
+- Microsoft Certified: Power BI Data Analyst Associate (PL-300) – [Verify](https://www.credly.com/badges/your-badge-id)
+
 
 <!--
 **Ganeshmeravath/Ganeshmeravath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
